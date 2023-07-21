@@ -1,0 +1,14 @@
+expname = test_generated_liver_two_nets_reg_scatter_sampling
+loss = l2
+basedir = ./logs
+datadir = ./data/oblique_test
+dataset_type = us
+no_batching = True
+output_ch = 5
+
+N_samples = 512
+
+
+i_embed = 6
+probe_depth = 100
+probe_width = 37

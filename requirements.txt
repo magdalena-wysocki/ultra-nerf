@@ -1,0 +1,13 @@
+#jaxlib
+jax
+tensorflow_probability==0.8.0
+numpy >= 1.14.6
+imageio
+matplotlib
+configargparse
+scikit-learn
+# scikit-learn<=1.02
+# matplotlib<=3.5.2
+# imageio<=2.21.1
+# imageio-ffmpeg<=0.4.7
+# configargparse<=1.5.3

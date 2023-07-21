@@ -1,0 +1,7 @@
+data/*
+*.pyi
+*.pyc
+*.ply
+logs/*
+.idea/*
+*.csv

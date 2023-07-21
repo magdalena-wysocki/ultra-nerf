@@ -1,0 +1,18 @@
+# To run: conda env create -f environment.yml
+name: ultra_nerf
+channels:
+    - conda-forge
+dependencies:
+    - python=3.7
+    - pip
+    #- cudatoolkit=10.0
+    - tensorflow==1.15
+    - tensorflow-gpu==1.15
+    - tensorflow_probability==0.8.0
+    - jax
+    - numpy
+    - matplotlib
+    - imageio==2.19.3
+    - imageio-ffmpeg
+    - configargparse
+    - imagemagick
