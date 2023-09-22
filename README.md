@@ -49,7 +49,7 @@ Synthetic data (c):
 Phantom data (b):
 0.22 x.07 mm, depth 100 mm, width 38 mm
 
-## Link to the data: [Data](https://syncandshare.lrz.de/getlink/fi3EGowa2yGEkUr3yZFUwn/)
+## Link to the data: [Data]([https://syncandshare.lrz.de/getlink/fi3EGowa2yGEkUr3yZFUwn/](https://drive.google.com/drive/folders/1gzpw98AZBk6A7TcUUDPCgjkfWS9Ivtow?usp=sharing))
 <img src='gfx/Data.png'/>
 
 The image shows the coordinate system and sampling method (equidistant sampling).
