@@ -1,6 +1,6 @@
 # Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging
 
-[Data](https://syncandshare.lrz.de/getlink/fi3EGowa2yGEkUr3yZFUwn/)
+[Data](https://drive.google.com/drive/folders/1aDc3wA2gugUKS6IABsH_TNWQ5Ijk7tmi?usp=drive_link)
 
 Tensorflow implementation of optimizing a neural representation for a multiple ultrasound sweeps for the same region of interest.<br><br>
 
