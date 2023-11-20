@@ -35,11 +35,6 @@ python run_ultra_nerf.py --config conf_us.txt --expname test_generated --n_iters
 <img src='gfx/Ultra_NeRF_MIDL2023.png'/>
 
 # Data
- **Note**
-> I recalibrated data poses after the publication. It could be that some views still have old poses.
-> I am checking this and will remove the note as soon as I am sure the poses are correct.
-> In case of any questions, please feel free to contact me. 
-
 Our data consist of several sweeps of the same region of interest taken from different observation angles (a).
 The poses are calibrated.
 
@@ -49,7 +44,7 @@ Synthetic data (c):
 Phantom data (b):
 0.22 x.07 mm, depth 100 mm, width 38 mm
 
-## Link to the data: [Data]([https://syncandshare.lrz.de/getlink/fi3EGowa2yGEkUr3yZFUwn/](https://drive.google.com/drive/folders/1gzpw98AZBk6A7TcUUDPCgjkfWS9Ivtow?usp=sharing))
+## Link to the data: [Data]([[https://syncandshare.lrz.de/getlink/fi3EGowa2yGEkUr3yZFUwn/](https://drive.google.com/drive/folders/1gzpw98AZBk6A7TcUUDPCgjkfWS9Ivtow?usp=sharing](https://drive.google.com/drive/folders/1aDc3wA2gugUKS6IABsH_TNWQ5Ijk7tmi?usp=drive_link)))
 <img src='gfx/Data.png'/>
 
 The image shows the coordinate system and sampling method (equidistant sampling).
