@@ -1,3 +1,6 @@
+# Ultra-NeRF Studio
+!!! Farid created an easy-to-use [ulra-nerfstudio] (https://github.com/mfazampour/UltraNeRF-Studio?tab=readme-ov-file) with the PyTorch implementation and other ad-ons. 
+
 # Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging
 
 [Data](https://drive.google.com/drive/folders/1aDc3wA2gugUKS6IABsH_TNWQ5Ijk7tmi?usp=drive_link)
